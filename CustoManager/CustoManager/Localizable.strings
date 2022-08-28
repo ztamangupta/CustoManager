@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  CustoManager
+
+  Created by Aman Gupta on 22/08/22.
+  
+*/
+
+"error_loading_data" = "Error Loading data from data container";
+"error_fetching_data" = "Error Fetching data from data container";
+"error_saving_data" = "Error Saving data in data container";
+
+"customers_view_title" = "Customers";
+"customers_view_search_placeholder" = "Search";
+
+"customer_name" = "Name: ";
+"customer_id" = "ID: ";
+"customer_contact_details" = "Contact Details:\n";
+"customer_status" = "Status: ";
+"customer_created_on" = "Creation date and time:\n";
+
+"opportunity_name" = "Opportunity Name:";
+"opportunity_name_placeholder" = "New name";
+"opportunity_status" = "Opportunity Status:";
+"opportunity_save" = "Save";
